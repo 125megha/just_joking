@@ -1,0 +1,31 @@
+boby,html{
+    height:100%;
+    background-color: rgb(126, 221, 248); 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+background-color: rgb(236, 231, 149);
+ height: 200px;
+ width:450px ;
+ border-radius: 20px;
+ text-align: center;
+ box-shadow: 10px 10px 5px rgb(103, 119, 125);
+ padding: 20px;
+}
+#jokebutton{
+    background-color: rgb(253, 171, 241);
+    border-radius: 25px;
+    outline-style: groove;
+}
+h3{
+    padding-top: 20px;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+p{
+    margin-top: 20px;
+}
